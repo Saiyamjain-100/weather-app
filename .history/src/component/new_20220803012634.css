@@ -1,0 +1,27 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-image: 100%;
+}
+
+p{
+    font-size: 20px;
+}
+.top-bar{
+    padding-top: 40px;
+    color: white;
+}
+
+.home{
+    margin-top: 100px;
+    color: white;
+}
+.footer p{
+    justify-content: end;
+    margin-bottom:20px ;
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+}

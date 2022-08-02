@@ -1,0 +1,22 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-image: 100%;
+}
+
+p{
+    font-size: 20px;
+}
+
+.home{
+    margin-top: 21px;
+}
+.footer p{
+    justify-content: end;
+    margin-bottom:20px ;
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+}
